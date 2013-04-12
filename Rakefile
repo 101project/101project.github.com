@@ -23,7 +23,7 @@ module JB
       :theme_assets => "assets/themes",
       :theme_packages => "_theme_packages",
       :posts => "_posts",
-      :images => "img"
+      :images => "https://github.com/101project/101project.github.com/raw/master"
     }
     
     def self.base
